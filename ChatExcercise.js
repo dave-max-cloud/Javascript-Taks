@@ -29,11 +29,9 @@ for (let i = 0; i < numbers.length; i++){
     }
 console.log(count);*/
 
-let sum = 0;
+/*let sum = 0;
 
 for (let i = 0; i < numbers.length; i++){
      sum = sum + numbers[i];
-
-     
     }
-  console.log(sum);
+  console.log(sum);*/
